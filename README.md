@@ -1,2 +1,3 @@
-# Student-Information-Management-PHP
-It contains the source code for student information management system, developed using php,jQuery,html,css
+# Student-Information-Management
+
+This student information management system project makes use of PHP, HTML, CSS, jQuery. And has the following features.
